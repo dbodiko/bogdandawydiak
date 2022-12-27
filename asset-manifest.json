@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/bogdandawydiak/static/css/main.5364978c.css",
+    "main.js": "/bogdandawydiak/static/js/main.49909152.js",
+    "static/media/marvelportalBig.jpg": "/bogdandawydiak/static/media/marvelportalBig.7b1806afa2e5408ea18e.jpg",
+    "static/media/bankdesignBig.jpg": "/bogdandawydiak/static/media/bankdesignBig.eac1945f75694bd2514a.jpg",
+    "static/media/qsales-big.jpg": "/bogdandawydiak/static/media/qsales-big.481cccec7221dc11ba47.jpg",
+    "static/media/marvelportal.jpg": "/bogdandawydiak/static/media/marvelportal.acd31eb8318b15ab77ff.jpg",
+    "static/media/bankdesign.jpg": "/bogdandawydiak/static/media/bankdesign.a34ea196049347d371f0.jpg",
+    "static/media/qsales-mini.jpg": "/bogdandawydiak/static/media/qsales-mini.e4cef319eee6b59a5e2d.jpg",
+    "static/media/ForceUkraine.png": "/bogdandawydiak/static/media/ForceUkraine.7f277c302f9cd68b8a63.png",
+    "static/media/header-bg.png": "/bogdandawydiak/static/media/header-bg.deda706a24a1f5aeb925.png",
+    "static/media/sun.svg": "/bogdandawydiak/static/media/sun.51393a375a81e44f27f1e33d713ca0ae.svg",
+    "static/media/moon.svg": "/bogdandawydiak/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/bogdandawydiak/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/black-github.svg": "/bogdandawydiak/static/media/black-github.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/bogdandawydiak/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/linkedIn.svg": "/bogdandawydiak/static/media/linkedIn.c05a2ae5b158581b0f27510e1d79e379.svg",
+    "index.html": "/bogdandawydiak/index.html",
+    "main.5364978c.css.map": "/bogdandawydiak/static/css/main.5364978c.css.map",
+    "main.49909152.js.map": "/bogdandawydiak/static/js/main.49909152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5364978c.css",
+    "static/js/main.49909152.js"
+  ]
+}
